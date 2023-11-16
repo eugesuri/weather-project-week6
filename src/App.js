@@ -8,9 +8,9 @@ export default function App() {
         <Weather defaultCity="Zürich" />
         <footer>
           This project was coded by <strong>Eugenia Brunetti Ehnimb</strong> and
-          is{" "}
+          is open-sourced on{" "}
           <a href="https://github.com/eugesuri/weather-project-week6">
-            open-sourced on GitHub 🌸
+            GitHub 🌸
           </a>
         </footer>
       </div>
