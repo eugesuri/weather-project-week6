@@ -10,7 +10,7 @@ export default function App() {
           This project was coded by <strong>Eugenia Brunetti Ehnimb</strong> and
           is{" "}
           <a href="https://github.com/eugesuri/weather-project-week6">
-            open-sourced on GitHub
+            open-sourced on GitHub 🌸
           </a>
         </footer>
       </div>
